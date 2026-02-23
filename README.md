@@ -12,3 +12,16 @@ The manual also refers to some PC software, but I haven't been able to obtain it
 > so I hope that this information can be useful to other people
 
 If you have any information don't hesitate to contact me, or to open an issue or a pull request in this repo.
+
+## Images
+Controller front panel:
+<br>
+<img src="img/controller_front.png" width="600" alt="Controller front panel">
+
+Controller PCB:
+<br>
+<img src="img/controller_back.jpg" width="600" alt="Controller PCB">
+
+Output board:
+<br>
+<img src="img/output_board.jpg" width="600" alt="Output board">
