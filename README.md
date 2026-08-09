@@ -6,7 +6,7 @@ The information is mostly gone from their website, but I found some manuals in t
 and I got the English manual from the company directly. They also sent me a related wiring scheme,
 for an ES3 wood drying kiln, built in 2011, which is similar to mine and uses the controller.
 
-The manual also refers to some PC software, but I haven't been able to obtain it yet.
+The manual also refers to some PC software, but I haven't been able to obtain it yet. I have managed to find what I think is a screenshot of the software on [interforesta.ro](https://www.interforesta.ro/product/uscator-in-vid-modele-es-cu-incalzirea-cu-apa-calda-a-platanelor-a96is1/). It is attached below.
 
 > I am not affiliated with I.S.V.E. in any way, but the company seems to have abandoned the product,
 > so I hope that this information can be useful to other people
@@ -25,3 +25,7 @@ Controller PCB:
 Output board:
 <br>
 <img src="img/output_board.jpg" width="600" alt="Output board">
+
+Screenshot from [interforesta.ro](https://www.interforesta.ro/product/uscator-in-vid-modele-es-cu-incalzirea-cu-apa-calda-a-platanelor-a96is1/)
+<br>
+<img src="img/Picture1c-24.png" width="600" alt="Front panel and PC software">
